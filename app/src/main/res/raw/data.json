@@ -1,0 +1,114 @@
+[
+  {
+    "location": "Hebbal",
+    "latitude": "13.04248310512345",
+    "longitude": "77.5906402172199",
+    "type": "AC",
+    "rating": "4.5",
+    "availability": "Free"
+  },
+  {
+    "location": "Element Mall",
+    "latitude": "13.04491457094887",
+    "longitude": "77.6273106035258",
+    "type": "DC",
+    "rating": "4.1",
+    "availability": "Engaged"
+  },
+  {
+    "location": "Yeshwanthpur",
+    "latitude": "13.040238758642417",
+    "longitude": "77.59251727733337",
+    "type": "AC",
+    "rating": "4.3",
+    "availability": "Engaged"
+  },
+  {
+    "location": "Manyata Tech Park",
+    "latitude": "13.044794395802528",
+    "longitude": "77.62081724639704",
+    "type": "DC",
+    "rating": "4.2",
+    "availability": "Free"
+  },
+  {
+    "location": "HBR Layout 4th Block",
+    "latitude": "13.030560197484307",
+    "longitude": "77.63271609827815",
+    "type": "AC",
+    "rating": "4.6",
+    "availability": "Engaged"
+  },
+  {
+    "location": "Ramamurthy Nagar",
+    "latitude": "13.015806199209118",
+    "longitude": "77.67860298408597",
+    "type": "DC",
+    "rating": "4.8",
+    "availability": "Free"
+  },
+  {
+    "location": "Kasturi Nagar",
+    "latitude": "13.005960645180602",
+    "longitude": "77.66084272413794",
+    "type": "DC",
+    "rating": "4.8",
+    "availability": "Engaged"
+  },
+  {
+    "location": "Phoenix MarketCity",
+    "latitude": "12.996115954317622",
+    "longitude": "77.69382737594448",
+    "type": "DC",
+    "rating": "4.8",
+    "availability": "Free"
+  },
+  {
+    "location": "Decathlon Whitefield",
+    "latitude": "12.995716945308203",
+    "longitude": "77.69957491621979",
+    "type": "DC",
+    "rating": "4.8",
+    "availability": "Free"
+  },
+  {
+    "location": "Krishnarajapuram",
+    "latitude": "13.000243987511391",
+    "longitude": "77.69030614593687",
+    "type": "DC",
+    "rating": "4.8",
+    "availability": "Engaged"
+  },
+  {
+    "location": "TopMart SuperMarket",
+    "latitude": "13.004407792335687",
+    "longitude": "77.7067811093699",
+    "type": "DC",
+    "rating": "4.8",
+    "availability": "Engaged"
+  },
+  {
+    "location": "1st Block Koramangala",
+    "latitude": "12.926730653725134",
+    "longitude": "77.63830011756188",
+    "type": "DC",
+    "rating": "4.8",
+    "availability": "Free"
+  },
+  {
+    "location": "Electronic City",
+    "latitude": "12.844677604592565",
+    "longitude": "77.65614726828673",
+    "type": "DC",
+    "rating": "4.8",
+    "availability": "Engaged"
+  },
+  {
+    "location": "Doddanagamangala",
+    "latitude": "12.855723502624835",
+    "longitude": "77.67039516174322",
+    "type": "DC",
+    "rating": "4.8",
+    "availability": "Free"
+  }
+]
